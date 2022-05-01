@@ -46,7 +46,7 @@
 
    #### 结构
 
-   <img src="C:\Users\l\Desktop\sci cl\alexnet.jpg"width="250" height="200"/>
+   <img src="https://github.com/poetrilin/identify_cats-dogs/blob/poetrilin-patch-1/alexnet.jpg"/>
 
 
    > 第一层：卷积层1，输入为 224 × 224 × 3 224 \times 224 \times 3224×224×3的图像，卷积核的数量为96，论文中两片GPU分别计算48个核; 卷积核的大小为 11 × 11 × 3 11 \times 11 \times 311×11×3; stride = 4, stride表示的是步长， pad = 0, 表示不扩充边缘;
