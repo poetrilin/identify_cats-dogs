@@ -199,7 +199,7 @@ import torchvision.transforms as transforms#对图像的预处理都用torchvisi
 
 #### 常见的激活函数
 
-<img src="https://github.com/poetrilin/identify_cats-dogs/main/img/jihuo.png" alt="前馈神经网络的输入层、隐藏层和输出层的可视图"  />
+<img src="https://github.com/poetrilin/identify_cats-dogs/img/jihuo.png" alt="前馈神经网络的输入层、隐藏层和输出层的可视图"  />
 
 * Sigmoid函数$\sigma(x)=\frac 1{1+e^{-x}}$
 
